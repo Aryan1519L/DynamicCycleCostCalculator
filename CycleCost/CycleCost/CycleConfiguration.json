@@ -1,0 +1,104 @@
+{
+	"JAN 2016 - JUN 2016"	:{
+
+		"FRAME":[    
+			{"frameName":"SEAT_STAY", "price":1817},    
+			{"frameName":"CHAIN_STAY", "price":1715},  
+			{"frameName":"FRAMESET", "price":1210}
+		],
+		"HANDLE_BAR":[
+			{"hb_SubPart":"GEAR_AND_BRAKE_LEVER", "price":1350},
+			{"hb_SubPart":"BARTAPE", "price":580 },
+			{"hb_SubPart":"CONTROL_PAD", "price": 230}
+		],
+		"SEATING":[
+			{"seatSubPart":"SADDLE", "price":280},
+			{"seatSubPart":"SEATPOST", "price":180 },
+			{"seatSubPart":"SEAT_CLAMP", "price":230}
+		],
+		"WHEEL":[
+			{"wheelSubPart":"TYRE", "price":200},
+			{"wheelSubPart":"RIM", "price":650 },
+			{"wheelSubPart":"SPOKE", "price":280},
+			{"wheelSubPart":"TUBE", "price":160},
+		],
+		"CHAIN_ASSEMBLY":[
+			{"caSubPart":"CRANK", "price":580},
+			{"caSubPart":"CHAIN", "price":240 },
+			{"caSubPart":"PULLEY WHEEL", "price":280},
+			{"caSubPart":"BOTTOM BRACKET", "price":660},
+		]
+
+
+		},
+		
+		
+		"JUL 2016 - DEC 2016"	:{
+
+		"FRAME":[    
+			{"frameName":"SEAT_STAY", "price":1717},    
+			{"frameName":"CHAIN_STAY", "price":1215},  
+			{"frameName":"FRAMESET", "price":1810}
+		],
+		"HANDLE_BAR":[
+			{"hb_SubPart":"GEAR_AND_BRAKE_LEVER", "price":1150},
+			{"hb_SubPart":"BARTAPE", "price":780 },
+			{"hb_SubPart":"CONTROL_PAD", "price": 280}
+		],
+		"SEATING":[
+			{"seatSubPart":"SADDLE", "price":245},
+			{"seatSubPart":"SEATPOST", "price":210 },
+			{"seatSubPart":"SEAT_CLAMP", "price":276}
+		],
+		"WHEEL":[
+			{"wheelSubPart":"TYRE", "price":200},
+			{"wheelSubPart":"RIM", "price":620 },
+			{"wheelSubPart":"SPOKE", "price":180},
+			{"wheelSubPart":"TUBE", "price":190},
+		],
+		"CHAIN_ASSEMBLY":[
+			{"caSubPart":"CRANK", "price":587},
+			{"caSubPart":"CHAIN", "price":243 },
+			{"caSubPart":"PULLEY WHEEL", "price":252},
+			{"caSubPart":"BOTTOM BRACKET", "price":614},
+		]
+
+
+		},
+		
+		
+		
+		"JAN 2017 - MAR 2017"	:{
+
+		"FRAME":[    
+			{"frameName":"SEAT_STAY", "price":1427},    
+			{"frameName":"CHAIN_STAY", "price":1565},  
+			{"frameName":"FRAMESET", "price":1970}
+		],
+		"HANDLE_BAR":[
+			{"hb_SubPart":"GEAR_AND_BRAKE_LEVER", "price":1770},
+			{"hb_SubPart":"BARTAPE", "price":760 },
+			{"hb_SubPart":"CONTROL_PAD", "price": 330}
+		],
+		"SEATING":[
+			{"seatSubPart":"SADDLE", "price":254},
+			{"seatSubPart":"SEATPOST", "price":222 },
+			{"seatSubPart":"SEAT_CLAMP", "price":239}
+		],
+		"WHEEL":[
+			{"wheelSubPart":"TYRE", "price":212},
+			{"wheelSubPart":"RIM", "price":620 },
+			{"wheelSubPart":"SPOKE", "price":280},
+			{"wheelSubPart":"TUBE", "price":160},
+		],
+		"CHAIN_ASSEMBLY":[
+			{"caSubPart":"CRANK", "price":583},
+			{"caSubPart":"CHAIN", "price":248 },
+			{"caSubPart":"PULLEY WHEEL", "price":145},
+			{"caSubPart":"BOTTOM BRACKET", "price":670},
+		]
+
+
+		}
+
+} 
